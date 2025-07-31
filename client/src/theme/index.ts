@@ -3,7 +3,7 @@ import { createTheme } from '@mui/material';
 const theme = createTheme({
     palette: {
         primary: {
-            main: '#0066cc', // Update to match Figma design
+            main: '#0066cc',
         },
         secondary: {
             main: '#ff6600',
