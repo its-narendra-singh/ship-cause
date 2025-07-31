@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+.env
+server/.env
+client/.env
+
+# Logs and OS files
+*.log
+.DS_Store
+
+# Build output (optional)
+client/build/
+server/dist/
+
+# Temp files
+*.tmp
+*.swp
